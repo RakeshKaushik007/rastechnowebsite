@@ -54,7 +54,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build --outDir dist",   // ✅ updated to output dist
+    "build": "vite build --outDir dist",
     "preview": "vite preview"
   }
 }
